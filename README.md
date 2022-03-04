@@ -8,6 +8,9 @@ In this project I studied the redirections and the pipes.
 This project is about creating a simple wireframe model representation of a 3D landscape 
 by linking various points (x, y, z) thanks to line segments (edges).
 
+Program represents given model in isometric projection.
+The coordinates of the landscape are stored in a .fdf file passed as a parameter to the program.
+
 What is important - here I used MiniLibX - 42(21) school graphical library.
 It was my first graphical library and thanks to it I discovered the
 basics of graphics programming, especially how to place points in space and join them.
