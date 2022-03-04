@@ -1,6 +1,7 @@
 # FDF
 
 School 21 (Ecole42) 'FdF' project. 
+
 Score 100/100. Passed 2021/12/27
 
 In this project I studied the redirections and the pipes. 
